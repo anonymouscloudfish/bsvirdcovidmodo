@@ -3,3 +3,5 @@ This repository contains the codebase for a COVID-19 Pandemic Model made using P
 
 ### Description
 This model is designed to show the impact that different vaccination implementations would have on an affected populace during a COVID-19 pandemic scenario. More information can be found on the NanoHub webpage [https://nanohub.org/tools/bsvirdcovid19mo](https://nanohub.org/tools/bsvirdcovid19mo).
+
+![image](image.png)
